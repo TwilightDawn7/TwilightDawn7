@@ -38,10 +38,6 @@
   </a>
 </p>
 
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/TwilightDawn7/TwilightDawn7/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
